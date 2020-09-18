@@ -1,0 +1,8 @@
+.vscode
+bin
+obj
+
+appsettings.json
+
+# dependencies
+/node_modules
